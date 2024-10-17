@@ -2,7 +2,7 @@
 
 1. *Commit running container to an image*:
 bash
-   docker commit <CONTAINER ID> <new image name>  # Create a new image from a running container
+   docker commit <CONTAINER ID> <new image name>  # okrupam Create a new image from a running container
 
 
 2. *Save Docker image to a tar file*:
